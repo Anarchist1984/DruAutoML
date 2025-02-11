@@ -3,3 +3,6 @@
 *.json
 *.txt
 *.log
+.lightning_studio
+/teamspace/studios/this_studio/notebooks/~/datasets/xgb
+*.sh
